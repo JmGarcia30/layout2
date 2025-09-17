@@ -16,7 +16,7 @@
   display: flex;
   justify-content: space-between;
   gap: 20px; 
-  background: #cceeff;
+  background: #9ed2e1;
   flex: 1; 
 }
 
@@ -98,7 +98,7 @@
 
 .bottom .side {
   flex: 1;
-  border: 5px solid rgb(96, 96, 126);
+  border: 5px solid #5e50c2;
   background: lavender;
   padding: 12px; 
 }
